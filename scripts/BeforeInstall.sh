@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #update the system
+#test-eyal
 
 rm -rf /home/app/doorSensor
 
